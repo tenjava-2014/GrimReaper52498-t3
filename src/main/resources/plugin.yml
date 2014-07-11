@@ -1,0 +1,3 @@
+name: GrimReaper52498-t3
+main: com.tenjava.entries.GrimReaper52498.t3.TenJava
+version: '${project.version}'
